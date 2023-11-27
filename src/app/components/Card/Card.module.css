@@ -1,0 +1,20 @@
+.cardContainer {
+  max-width: 380px;
+  max-height: auto;
+}
+.card {
+  background-color: #d9d9d9;
+  width: 380px;
+  height: 200px;
+}
+.cardInfo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.card img {
+  object-fit: cover;
+}
+.link {
+  text-decoration: none;
+}
